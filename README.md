@@ -8,8 +8,8 @@ This repository contains the final project for the study of single-cell transcri
 * **Final\_project.rmd**
   Main R Markdown script with the complete analysis workflow, including data preprocessing, clustering, visualization, and interpretation.
 
-* **Data file**
-  Processed dataset used in the analysis. Raw data are not included due to size and availability restrictions, but references to the original dataset are provided in the report.
+* **GSE85241_dataset.csv.gz**
+  Processed dataset used in the analysis. 
 
 * **Presentation**
   A slide deck summarizing the key findings, figures, and conclusions from the analysis.
